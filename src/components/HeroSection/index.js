@@ -10,8 +10,8 @@ import {
   HeroBtnWrapper,
   ArrowForward,
   ArrowRight,
-  Button,
 } from "./HeroElements";
+import { Button } from "../ButtonElement";
 
 const HeroSection = () => {
   const [hover, setHover] = useState(false);
@@ -32,7 +32,13 @@ const HeroSection = () => {
           your next payment.
         </HeroP>
         <HeroBtnWrapper>
-          <Button to="signup" onMouseEnter={onHover} onMouseLeave={onHover}>
+          <Button
+            to="signup"
+            onMouseEnter={onHover}
+            onMouseLeave={onHover}
+            primary="true"
+            dark="true"
+          >
             Get started {hover ? <ArrowForward /> : <ArrowRight />}
           </Button>
         </HeroBtnWrapper>
