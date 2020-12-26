@@ -39,7 +39,7 @@ export const ServicesWrapper = styled.div`
 export const ServicesCard = styled.div`
   background: #fff;
   display: flex;
-  flex-direction: flex-start;
+  flex-direction: column;
   align-items: center;
   border-radius: 10px;
   max-height: 340px;
