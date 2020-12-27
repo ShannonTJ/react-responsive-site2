@@ -78,7 +78,7 @@ export const FormH1 = styled.h1`
   text-align: center;
 `;
 
-export const FormLavel = styled.label`
+export const FormLabel = styled.label`
   margin-bottom: 8px;
   font-size: 14px;
   color: #fff;
@@ -106,4 +106,5 @@ export const Text = styled.span`
   margin-top: 24px;
   color: #fff;
   font-size: 14px;
+  cursor: pointer;
 `;
