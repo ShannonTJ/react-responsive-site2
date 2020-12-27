@@ -1,4 +1,5 @@
 import React from "react";
+import { animateScroll as scroll } from "react-scroll";
 import {
   FaTwitter,
   FaYoutube,
@@ -23,6 +24,10 @@ import {
 } from "./FooterElements";
 
 const Footer = () => {
+  const toggleHome = () => {
+    scroll.scrollToTop();
+  };
+
   return (
     <FooterContainer>
       <FooterWrapper>
@@ -64,7 +69,9 @@ const Footer = () => {
         </FooterLinksContainer>
         <SocialMedia>
           <SocialMediaWrap>
-            <SocialLogo to="/">react</SocialLogo>
+            <SocialLogo to="/" onClick={toggleHome}>
+              react
+            </SocialLogo>
             <WebsiteRights>
               react © {new Date().getFullYear()} All rights reserved.
             </WebsiteRights>
