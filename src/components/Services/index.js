@@ -19,21 +19,25 @@ const Services = () => {
           <ServicesIcon src={"images/svg-5.svg"} />
           <ServicesH2>Reduce expenses</ServicesH2>
           <ServicesP>
-            We help reduce your fees and increase your overall revenue
+            Actually kickstarter flexitarian master cleanse la croix celiac
+            jianbing post-ironic beard mustache aesthetic.
           </ServicesP>
         </ServicesCard>
         <ServicesCard>
           <ServicesIcon src={"images/svg-6.svg"} />
           <ServicesH2>Virtual Offices</ServicesH2>
           <ServicesP>
-            You can access our platform online anywhere in the world
+            Unicorn poutine blue bottle, keytar pug single-origin coffee
+            cornhole forage drinking vinegar kickstarter PBR&B truffaut
+            cardigan.
           </ServicesP>
         </ServicesCard>
         <ServicesCard>
           <ServicesIcon src={"images/svg-7.svg"} />
           <ServicesH2>Premium Benefits</ServicesH2>
           <ServicesP>
-            Unlock our special membership card that returns 5% cash back
+            Beard yuccie la croix hell of, migas selfies sustainable banjo vegan
+            microdosing disrupt bitters try-hard cronut.
           </ServicesP>
         </ServicesCard>
       </ServicesWrapper>

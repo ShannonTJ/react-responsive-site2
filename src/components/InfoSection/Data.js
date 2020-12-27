@@ -6,7 +6,7 @@ export const homeObj1 = {
   topLine: "Premium Bank",
   headline: "Unlimited Transactions with zero fees",
   description:
-    "Get access to our exclusive app that allows you to send unlimited transactions without getting charged any fees",
+    "Meh etsy chicharrones, austin yr ramps authentic sriracha organic. Selfies church-key cardigan kickstarter food truck lyft keytar, tumblr migas banh mi scenester iPhone hella coloring book.",
   buttonLabel: "Get Started",
   imgStart: false,
   img: "images/svg-1.svg",
@@ -24,7 +24,7 @@ export const homeObj2 = {
   topLine: "Unlimited Access",
   headline: "Log in to your account at any time",
   description:
-    "Get access to our exclusive app that allows you to send unlimited transactions without getting charged any fees",
+    "Affogato cred unicorn salvia. Roof party brooklyn meditation schlitz raclette shoreditch portland squid. Austin single-origin coffee kinfolk hashtag lumbersexual air plant tbh neutra meh cray.",
   buttonLabel: "Learn More",
   imgStart: true,
   img: "images/svg-2.svg",
@@ -42,7 +42,7 @@ export const homeObj3 = {
   topLine: "Join Our Team",
   headline: "Creating an account is extremely easy",
   description:
-    "Get access to our exclusive app that allows you to send unlimited transactions without getting charged any fees",
+    "Meh jianbing fixie, humblebrag direct trade tousled mixtape art party taiyaki craft beer single-origin coffee pop-up. Hoodie banh mi you probably haven't heard of them selvage 3 wolf moon, skateboard jean shorts forage edison bulb cold-pressed pok pok cray photo booth.",
   buttonLabel: "Start Now",
   imgStart: false,
   img: "images/svg-3.svg",
