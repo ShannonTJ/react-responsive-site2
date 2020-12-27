@@ -14,6 +14,12 @@ import {
   FooterLinkItems,
   FooterLinkTitle,
   FooterLink,
+  SocialMedia,
+  SocialMediaWrap,
+  SocialIconLink,
+  SocialIcons,
+  SocialLogo,
+  WebsiteRights,
 } from "./FooterElements";
 
 const Footer = () => {
@@ -60,7 +66,7 @@ const Footer = () => {
           <SocialMediaWrap>
             <SocialLogo to="/">react</SocialLogo>
             <WebsiteRights>
-              react © {new Date().getFullYear()} all rights reserved
+              react © {new Date().getFullYear()} All rights reserved.
             </WebsiteRights>
             <SocialIcons>
               <SocialIconLink href="/" target="_blank" aria-label="Facebook">
