@@ -29,34 +29,34 @@ const Footer = () => {
           <FooterLinksWrapper>
             <FooterLinkItems>
               <FooterLinkTitle>About Us</FooterLinkTitle>
-              <FooterLink to="/signin">How It Works</FooterLink>
-              <FooterLink to="/signin">Testimonials</FooterLink>
-              <FooterLink to="/signin">Careers</FooterLink>
-              <FooterLink to="/signin">Investors</FooterLink>
-              <FooterLink to="/signin">Terms of Service</FooterLink>
+              <FooterLink to="/">How It Works</FooterLink>
+              <FooterLink to="/">Testimonials</FooterLink>
+              <FooterLink to="/">Careers</FooterLink>
+              <FooterLink to="/">Investors</FooterLink>
+              <FooterLink to="/">Terms of Service</FooterLink>
             </FooterLinkItems>
             <FooterLinkItems>
               <FooterLinkTitle>Videos</FooterLinkTitle>
-              <FooterLink to="/signin">Submit Video</FooterLink>
-              <FooterLink to="/signin">Ambassadors</FooterLink>
-              <FooterLink to="/signin">Agency</FooterLink>
-              <FooterLink to="/signin">Influencer</FooterLink>
+              <FooterLink to="/">Submit Video</FooterLink>
+              <FooterLink to="/">Ambassadors</FooterLink>
+              <FooterLink to="/">Agency</FooterLink>
+              <FooterLink to="/">Influencer</FooterLink>
             </FooterLinkItems>
           </FooterLinksWrapper>
           <FooterLinksWrapper>
             <FooterLinkItems>
               <FooterLinkTitle>Contact Us</FooterLinkTitle>
-              <FooterLink to="/signin">Contact</FooterLink>
-              <FooterLink to="/signin">Support</FooterLink>
-              <FooterLink to="/signin">Destinations</FooterLink>
-              <FooterLink to="/signin">Sponsorships</FooterLink>
+              <FooterLink to="/">Contact</FooterLink>
+              <FooterLink to="/">Support</FooterLink>
+              <FooterLink to="/">Destinations</FooterLink>
+              <FooterLink to="/">Sponsorships</FooterLink>
             </FooterLinkItems>
             <FooterLinkItems>
               <FooterLinkTitle>Social Media</FooterLinkTitle>
-              <FooterLink to="/signin">Twitter</FooterLink>
-              <FooterLink to="/signin">Instagram</FooterLink>
-              <FooterLink to="/signin">Facebook</FooterLink>
-              <FooterLink to="/signin">Youtube</FooterLink>
+              <FooterLink to="/">Twitter</FooterLink>
+              <FooterLink to="/">Instagram</FooterLink>
+              <FooterLink to="/">Facebook</FooterLink>
+              <FooterLink to="/">Youtube</FooterLink>
             </FooterLinkItems>
           </FooterLinksWrapper>
         </FooterLinksContainer>
