@@ -49,7 +49,7 @@ export const ServicesCard = styled.div`
 
   &:hover {
     transform: scale(1.02);
-    transition: 1ll 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
     cursor: pointer;
   }
 `;
