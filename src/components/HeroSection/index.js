@@ -28,8 +28,8 @@ const HeroSection = () => {
       <HeroContent>
         <HeroH1>Virtual Banking Made Easy</HeroH1>
         <HeroP>
-          Pok pok bushwick leggings, scenester helvetica brooklyn 3 wolf moon
-          poke succulents disrupt kale chips.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
+          temporibus quam nesciunt similique accusamus consectetur.
         </HeroP>
         <HeroBtnWrapper>
           <Button
